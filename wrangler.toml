@@ -1,0 +1,7 @@
+name = "tve-worker"
+type = "javascript"
+account_id = "6696a8009fd3c81d878dc6bcc3f71922d"
+workers_dev = true
+route = "tunnel.tvetechnical.com/secure"
+zone_id = "09ebfa5f3997693d19ac22ab08ea9958"
+
